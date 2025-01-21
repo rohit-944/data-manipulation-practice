@@ -65,3 +65,5 @@ Types of SQL Commands:
                 ALTER TABLE orders DROP CONSTRAINT fk_customer;
         ● TRUNCATE TABLE:- Usedtodelete the data inside a table, but not the table itself.
             Syntax– TRUNCATETABLEtable_name
+
+
