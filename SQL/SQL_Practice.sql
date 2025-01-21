@@ -28,6 +28,42 @@ Show tables;
 Select * from Student;
 
 
+alter table Student
+Rename to Student1;
+
+Select * from Student1;
+
+create table Student2 (
+Rollno INT,
+Name VARCHAR(50),
+Marks INT not NULL,
+Grade VARCHAR(1),
+Address VARCHAR(100)
+);
+
+Select * from Student2;
+
+ALTER TABLE Student2
+RENAME COLUMN Nmae TO Name;
+
+Describe Student2;
+
+INSERT INTO Student2 (Rollno, Name, Marks, Grade, Address)
+VALUES
+(101, "anil", 78, "C", "Pune"),
+(102, "bhumika", 93, "A", "Mumbai"),
+(103, "chetan", 85, "B", "Mumbai"),
+(104, "dhruv", 96, "A", "Delhi"),
+(105, "emanuel", 12, "F", "Delhi"),
+(106, "farah", 82, "B", "Delhi");
+
+Show tables;
+
+drop table Student;
+
+
+
+
 
 
 
