@@ -61,6 +61,10 @@ Show tables;
 
 drop table Student;
 
+Select * from Student1;
+Select * from Student2;
+
+
 
 
 
