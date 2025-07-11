@@ -1,8 +1,8 @@
 # Array Practice Questions
 
 ## 1. Find Maximum/Minimum Element
-1. [Find the largest element in an array (GFG)](https://www.geeksforgeeks.org/find-largest-element-array/)
-2. [Find the smallest element in an array (GFG)](https://www.geeksforgeeks.org/smallest-element-array-without-comparison-operators/)
+1. [Find the largest element in an array (GFG)](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1)
+2. [Find the smallest and second smallest element (GFG)](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1)
 3. [Find Minimum in Rotated Sorted Array (LeetCode 153)](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 4. [Second Largest Element in Array (GFG)](https://www.geeksforgeeks.org/find-second-largest-element-array/)
 
