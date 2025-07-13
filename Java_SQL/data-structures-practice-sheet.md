@@ -15,7 +15,7 @@
 ## 3. Rotate Array
 1. [Rotate array by D elements (GFG)](https://www.geeksforgeeks.org/array-rotation/)
 2. [Rotate Array (LeetCode 189)](https://leetcode.com/problems/rotate-array/)
-3. [Left Rotate an Array by One (GFG)](https://www.geeksforgeeks.org/left-rotation-array-one-one/)
+3. [Left Rotate an Array by One (GFG)](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1)
 4. [Cyclically rotate an array by one (GFG)](https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/)
 
 ## 4. Find Duplicates/Missing Numbers
