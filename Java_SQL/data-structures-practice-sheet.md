@@ -80,7 +80,7 @@
 # Hashing Practice Questions
 
 ## 1. Frequency Count / Hash Map Basics
-1. [Counting frequencies of array elements (GFG)](https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/)
+1. [Counting frequencies of array elements (GFG)](https://www.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1)
 2. [Top K Frequent Elements (LeetCode 347)](https://leetcode.com/problems/top-k-frequent-elements/)
 3. [Majority Element (LeetCode 169)](https://leetcode.com/problems/majority-element/)
 4. [Check if two arrays are equal or not (GFG)](https://www.geeksforgeeks.org/check-if-two-arrays-are-equal-or-not/)
