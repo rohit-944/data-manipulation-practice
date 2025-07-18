@@ -34,7 +34,7 @@
 1. [Merge two sorted arrays (GFG)](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
 2. [Merge Sorted Array (LeetCode 88)](https://leetcode.com/problems/merge-sorted-array/)
 3. [Merge Intervals (LeetCode 56)](https://leetcode.com/problems/merge-intervals/)
-4. [Union of Two Sorted Arrays (GFG)](https://www.geeksforgeeks.org/union-and-intersection-of-two-sorted-arrays-2/)
+4. [Union of Two Sorted Arrays (GFG)](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 
 ## 7. Move Zeros/Negatives
 1. [Move all zeroes to end (GFG)](https://www.geeksforgeeks.org/move-zeroes-end-array/)
