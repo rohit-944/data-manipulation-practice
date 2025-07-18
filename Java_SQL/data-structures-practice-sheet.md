@@ -39,7 +39,7 @@
 ## 7. Move Zeros/Negatives
 1. [Move all zeroes to end (GFG)](https://www.geeksforgeeks.org/move-zeroes-end-array/)
 2. [Move Zeroes (LeetCode 283)](https://leetcode.com/problems/move-zeroes/)
-3. [Move all negative numbers to beginning (GFG)](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/)
+3. [Positive and negative elements](https://www.geeksforgeeks.org/problems/positive-and-negative-elements4613/1)
 4. [Segregate Even and Odd Numbers (GFG)](https://www.geeksforgeeks.org/segregate-even-and-odd-numbers/)
 
 ## 8. Rearrangement (Even/Odd, Positive/Negative)
